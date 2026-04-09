@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/49b45820-2d0e-4252-bead-045b2b710cb6
+View your app : https://aistudio.google.com/apps/49b45820-2d0e-4252-bead-045b2b710cb6?showPreview=true&showAssistant=true&project=gen-lang-client-0821336509&fullscreenApplet=true
 
 ## Run Locally
 
